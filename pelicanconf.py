@@ -3,9 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Khatereh Mohajery'
-SITENAME = u'kmohajery_blog'
+SITENAME = u'Khatereh Mohajery\'s blog'
 SITEURL = ''
-
+THEME = "/Users/khaterehmohajery1/anaconda/lib/python2.7/site-packages/pelican/themes/pelican-chunk"
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
